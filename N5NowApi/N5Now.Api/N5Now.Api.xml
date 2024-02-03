@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>N5Now.Api</name>
+    </assembly>
+    <members>
+        <member name="T:N5Now.Api.ExceptionMiddlewareExtensions">
+            <summary>
+            Controlador general de errores de la aplicación
+            </summary>
+        </member>
+        <member name="M:N5Now.Api.ExceptionMiddlewareExtensions.ConfigureExceptionHandler(Microsoft.AspNetCore.Builder.IApplicationBuilder,System.String,Microsoft.Extensions.Logging.ILogger)">
+            <summary>
+            Configura el manejador de excepciones.
+            </summary>
+            <param name="app">La aplicación.</param>
+            <param name="mostrarErrorTecnico">Indica si se muestra o no los mensajes Técnicos</param>
+            <param name="logger"></param>
+        </member>
+    </members>
+</doc>
