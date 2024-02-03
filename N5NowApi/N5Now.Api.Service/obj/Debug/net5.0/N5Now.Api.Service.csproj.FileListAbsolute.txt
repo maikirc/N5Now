@@ -1,0 +1,5 @@
+C:\Users\administrador\Desktop\N5NowApi\N5NowApi\N5Now.Api.Service\obj\Debug\net5.0\N5Now.Api.Service.csproj.AssemblyReference.cache
+C:\Users\administrador\Desktop\N5NowApi\N5NowApi\N5Now.Api.Service\obj\Debug\net5.0\N5Now.Api.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\administrador\Desktop\N5NowApi\N5NowApi\N5Now.Api.Service\obj\Debug\net5.0\N5Now.Api.Service.AssemblyInfoInputs.cache
+C:\Users\administrador\Desktop\N5NowApi\N5NowApi\N5Now.Api.Service\obj\Debug\net5.0\N5Now.Api.Service.AssemblyInfo.cs
+C:\Users\administrador\Desktop\N5NowApi\N5NowApi\N5Now.Api.Service\obj\Debug\net5.0\N5Now.Api.Service.csproj.CoreCompileInputs.cache

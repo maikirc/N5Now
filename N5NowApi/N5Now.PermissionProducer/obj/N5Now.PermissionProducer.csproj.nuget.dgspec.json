@@ -1,0 +1,143 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Miguel Angel\\Personal\\N5Now\\N5NowApi\\N5Now.PermissionProducer\\N5Now.PermissionProducer.csproj": {}
+  },
+  "projects": {
+    "D:\\Miguel Angel\\Personal\\N5Now\\N5NowApi\\N5Now.Api.ViewModel\\N5Now.Api.ViewModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Miguel Angel\\Personal\\N5Now\\N5NowApi\\N5Now.Api.ViewModel\\N5Now.Api.ViewModel.csproj",
+        "projectName": "N5Now.Api.ViewModel",
+        "projectPath": "D:\\Miguel Angel\\Personal\\N5Now\\N5NowApi\\N5Now.Api.ViewModel\\N5Now.Api.ViewModel.csproj",
+        "packagesPath": "C:\\Users\\mregalado\\.nuget\\packages\\",
+        "outputPath": "D:\\Miguel Angel\\Personal\\N5Now\\N5NowApi\\N5Now.Api.ViewModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mregalado\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Miguel Angel\\Personal\\N5Now\\N5NowApi\\N5Now.PermissionProducer\\N5Now.PermissionProducer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Miguel Angel\\Personal\\N5Now\\N5NowApi\\N5Now.PermissionProducer\\N5Now.PermissionProducer.csproj",
+        "projectName": "N5Now.PermissionProducer",
+        "projectPath": "D:\\Miguel Angel\\Personal\\N5Now\\N5NowApi\\N5Now.PermissionProducer\\N5Now.PermissionProducer.csproj",
+        "packagesPath": "C:\\Users\\mregalado\\.nuget\\packages\\",
+        "outputPath": "D:\\Miguel Angel\\Personal\\N5Now\\N5NowApi\\N5Now.PermissionProducer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mregalado\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Miguel Angel\\Personal\\N5Now\\N5NowApi\\N5Now.Api.ViewModel\\N5Now.Api.ViewModel.csproj": {
+                "projectPath": "D:\\Miguel Angel\\Personal\\N5Now\\N5NowApi\\N5Now.Api.ViewModel\\N5Now.Api.ViewModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Confluent.Kafka": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

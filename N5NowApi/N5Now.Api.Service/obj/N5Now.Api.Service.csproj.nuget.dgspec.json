@@ -1,0 +1,531 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Miguel Angel\\Personal\\N5Now\\N5NowApi\\N5Now.Api.Service\\N5Now.Api.Service.csproj": {}
+  },
+  "projects": {
+    "D:\\Miguel Angel\\Personal\\N5Now\\N5NowApi\\N5Now.Api.Data\\N5Now.Api.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Miguel Angel\\Personal\\N5Now\\N5NowApi\\N5Now.Api.Data\\N5Now.Api.Data.csproj",
+        "projectName": "N5Now.Api.Data",
+        "projectPath": "D:\\Miguel Angel\\Personal\\N5Now\\N5NowApi\\N5Now.Api.Data\\N5Now.Api.Data.csproj",
+        "packagesPath": "C:\\Users\\mregalado\\.nuget\\packages\\",
+        "outputPath": "D:\\Miguel Angel\\Personal\\N5Now\\N5NowApi\\N5Now.Api.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mregalado\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Miguel Angel\\Personal\\N5Now\\N5NowApi\\N5Now.Api.Entities\\N5Now.Api.Entities.csproj": {
+                "projectPath": "D:\\Miguel Angel\\Personal\\N5Now\\N5NowApi\\N5Now.Api.Entities\\N5Now.Api.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Miguel Angel\\Personal\\N5Now\\N5NowApi\\N5Now.Api.Entities\\N5Now.Api.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Miguel Angel\\Personal\\N5Now\\N5NowApi\\N5Now.Api.Entities\\N5Now.Api.Entities.csproj",
+        "projectName": "N5Now.Api.Entities",
+        "projectPath": "D:\\Miguel Angel\\Personal\\N5Now\\N5NowApi\\N5Now.Api.Entities\\N5Now.Api.Entities.csproj",
+        "packagesPath": "C:\\Users\\mregalado\\.nuget\\packages\\",
+        "outputPath": "D:\\Miguel Angel\\Personal\\N5Now\\N5NowApi\\N5Now.Api.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mregalado\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Miguel Angel\\Personal\\N5Now\\N5NowApi\\N5Now.Api.IRepository\\N5Now.Api.IRepository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Miguel Angel\\Personal\\N5Now\\N5NowApi\\N5Now.Api.IRepository\\N5Now.Api.IRepository.csproj",
+        "projectName": "N5Now.Api.IRepository",
+        "projectPath": "D:\\Miguel Angel\\Personal\\N5Now\\N5NowApi\\N5Now.Api.IRepository\\N5Now.Api.IRepository.csproj",
+        "packagesPath": "C:\\Users\\mregalado\\.nuget\\packages\\",
+        "outputPath": "D:\\Miguel Angel\\Personal\\N5Now\\N5NowApi\\N5Now.Api.IRepository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mregalado\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Miguel Angel\\Personal\\N5Now\\N5NowApi\\N5Now.Api.ViewModel\\N5Now.Api.ViewModel.csproj": {
+                "projectPath": "D:\\Miguel Angel\\Personal\\N5Now\\N5NowApi\\N5Now.Api.ViewModel\\N5Now.Api.ViewModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Miguel Angel\\Personal\\N5Now\\N5NowApi\\N5Now.Api.IService\\N5Now.Api.IService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Miguel Angel\\Personal\\N5Now\\N5NowApi\\N5Now.Api.IService\\N5Now.Api.IService.csproj",
+        "projectName": "N5Now.Api.IService",
+        "projectPath": "D:\\Miguel Angel\\Personal\\N5Now\\N5NowApi\\N5Now.Api.IService\\N5Now.Api.IService.csproj",
+        "packagesPath": "C:\\Users\\mregalado\\.nuget\\packages\\",
+        "outputPath": "D:\\Miguel Angel\\Personal\\N5Now\\N5NowApi\\N5Now.Api.IService\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mregalado\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Miguel Angel\\Personal\\N5Now\\N5NowApi\\N5Now.Api.ViewModel\\N5Now.Api.ViewModel.csproj": {
+                "projectPath": "D:\\Miguel Angel\\Personal\\N5Now\\N5NowApi\\N5Now.Api.ViewModel\\N5Now.Api.ViewModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Miguel Angel\\Personal\\N5Now\\N5NowApi\\N5Now.Api.Logic\\N5Now.Api.Logic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Miguel Angel\\Personal\\N5Now\\N5NowApi\\N5Now.Api.Logic\\N5Now.Api.Logic.csproj",
+        "projectName": "N5Now.Api.Logic",
+        "projectPath": "D:\\Miguel Angel\\Personal\\N5Now\\N5NowApi\\N5Now.Api.Logic\\N5Now.Api.Logic.csproj",
+        "packagesPath": "C:\\Users\\mregalado\\.nuget\\packages\\",
+        "outputPath": "D:\\Miguel Angel\\Personal\\N5Now\\N5NowApi\\N5Now.Api.Logic\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mregalado\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Miguel Angel\\Personal\\N5Now\\N5NowApi\\N5Now.Api.IRepository\\N5Now.Api.IRepository.csproj": {
+                "projectPath": "D:\\Miguel Angel\\Personal\\N5Now\\N5NowApi\\N5Now.Api.IRepository\\N5Now.Api.IRepository.csproj"
+              },
+              "D:\\Miguel Angel\\Personal\\N5Now\\N5NowApi\\N5Now.Api.ViewModel\\N5Now.Api.ViewModel.csproj": {
+                "projectPath": "D:\\Miguel Angel\\Personal\\N5Now\\N5NowApi\\N5Now.Api.ViewModel\\N5Now.Api.ViewModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Miguel Angel\\Personal\\N5Now\\N5NowApi\\N5Now.Api.Repository\\N5Now.Api.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Miguel Angel\\Personal\\N5Now\\N5NowApi\\N5Now.Api.Repository\\N5Now.Api.Repository.csproj",
+        "projectName": "N5Now.Api.Repository",
+        "projectPath": "D:\\Miguel Angel\\Personal\\N5Now\\N5NowApi\\N5Now.Api.Repository\\N5Now.Api.Repository.csproj",
+        "packagesPath": "C:\\Users\\mregalado\\.nuget\\packages\\",
+        "outputPath": "D:\\Miguel Angel\\Personal\\N5Now\\N5NowApi\\N5Now.Api.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mregalado\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Miguel Angel\\Personal\\N5Now\\N5NowApi\\N5Now.Api.Data\\N5Now.Api.Data.csproj": {
+                "projectPath": "D:\\Miguel Angel\\Personal\\N5Now\\N5NowApi\\N5Now.Api.Data\\N5Now.Api.Data.csproj"
+              },
+              "D:\\Miguel Angel\\Personal\\N5Now\\N5NowApi\\N5Now.Api.Entities\\N5Now.Api.Entities.csproj": {
+                "projectPath": "D:\\Miguel Angel\\Personal\\N5Now\\N5NowApi\\N5Now.Api.Entities\\N5Now.Api.Entities.csproj"
+              },
+              "D:\\Miguel Angel\\Personal\\N5Now\\N5NowApi\\N5Now.Api.IRepository\\N5Now.Api.IRepository.csproj": {
+                "projectPath": "D:\\Miguel Angel\\Personal\\N5Now\\N5NowApi\\N5Now.Api.IRepository\\N5Now.Api.IRepository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Miguel Angel\\Personal\\N5Now\\N5NowApi\\N5Now.Api.Service\\N5Now.Api.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Miguel Angel\\Personal\\N5Now\\N5NowApi\\N5Now.Api.Service\\N5Now.Api.Service.csproj",
+        "projectName": "N5Now.Api.Service",
+        "projectPath": "D:\\Miguel Angel\\Personal\\N5Now\\N5NowApi\\N5Now.Api.Service\\N5Now.Api.Service.csproj",
+        "packagesPath": "C:\\Users\\mregalado\\.nuget\\packages\\",
+        "outputPath": "D:\\Miguel Angel\\Personal\\N5Now\\N5NowApi\\N5Now.Api.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mregalado\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Miguel Angel\\Personal\\N5Now\\N5NowApi\\N5Now.Api.IService\\N5Now.Api.IService.csproj": {
+                "projectPath": "D:\\Miguel Angel\\Personal\\N5Now\\N5NowApi\\N5Now.Api.IService\\N5Now.Api.IService.csproj"
+              },
+              "D:\\Miguel Angel\\Personal\\N5Now\\N5NowApi\\N5Now.Api.Logic\\N5Now.Api.Logic.csproj": {
+                "projectPath": "D:\\Miguel Angel\\Personal\\N5Now\\N5NowApi\\N5Now.Api.Logic\\N5Now.Api.Logic.csproj"
+              },
+              "D:\\Miguel Angel\\Personal\\N5Now\\N5NowApi\\N5Now.Api.Repository\\N5Now.Api.Repository.csproj": {
+                "projectPath": "D:\\Miguel Angel\\Personal\\N5Now\\N5NowApi\\N5Now.Api.Repository\\N5Now.Api.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Miguel Angel\\Personal\\N5Now\\N5NowApi\\N5Now.Api.ViewModel\\N5Now.Api.ViewModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Miguel Angel\\Personal\\N5Now\\N5NowApi\\N5Now.Api.ViewModel\\N5Now.Api.ViewModel.csproj",
+        "projectName": "N5Now.Api.ViewModel",
+        "projectPath": "D:\\Miguel Angel\\Personal\\N5Now\\N5NowApi\\N5Now.Api.ViewModel\\N5Now.Api.ViewModel.csproj",
+        "packagesPath": "C:\\Users\\mregalado\\.nuget\\packages\\",
+        "outputPath": "D:\\Miguel Angel\\Personal\\N5Now\\N5NowApi\\N5Now.Api.ViewModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mregalado\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
