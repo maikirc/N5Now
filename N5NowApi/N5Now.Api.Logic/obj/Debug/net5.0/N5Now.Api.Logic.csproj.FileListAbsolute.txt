@@ -1,0 +1,12 @@
+C:\Users\administrador\Desktop\N5NowApi\N5NowApi\N5Now.Api.Logic\bin\Debug\net5.0\N5Now.Api.Logic.deps.json
+C:\Users\administrador\Desktop\N5NowApi\N5NowApi\N5Now.Api.Logic\bin\Debug\net5.0\N5Now.Api.Logic.dll
+C:\Users\administrador\Desktop\N5NowApi\N5NowApi\N5Now.Api.Logic\bin\Debug\net5.0\ref\N5Now.Api.Logic.dll
+C:\Users\administrador\Desktop\N5NowApi\N5NowApi\N5Now.Api.Logic\bin\Debug\net5.0\N5Now.Api.Logic.pdb
+C:\Users\administrador\Desktop\N5NowApi\N5NowApi\N5Now.Api.Logic\obj\Debug\net5.0\N5Now.Api.Logic.csproj.AssemblyReference.cache
+C:\Users\administrador\Desktop\N5NowApi\N5NowApi\N5Now.Api.Logic\obj\Debug\net5.0\N5Now.Api.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\administrador\Desktop\N5NowApi\N5NowApi\N5Now.Api.Logic\obj\Debug\net5.0\N5Now.Api.Logic.AssemblyInfoInputs.cache
+C:\Users\administrador\Desktop\N5NowApi\N5NowApi\N5Now.Api.Logic\obj\Debug\net5.0\N5Now.Api.Logic.AssemblyInfo.cs
+C:\Users\administrador\Desktop\N5NowApi\N5NowApi\N5Now.Api.Logic\obj\Debug\net5.0\N5Now.Api.Logic.csproj.CoreCompileInputs.cache
+C:\Users\administrador\Desktop\N5NowApi\N5NowApi\N5Now.Api.Logic\obj\Debug\net5.0\N5Now.Api.Logic.dll
+C:\Users\administrador\Desktop\N5NowApi\N5NowApi\N5Now.Api.Logic\obj\Debug\net5.0\ref\N5Now.Api.Logic.dll
+C:\Users\administrador\Desktop\N5NowApi\N5NowApi\N5Now.Api.Logic\obj\Debug\net5.0\N5Now.Api.Logic.pdb

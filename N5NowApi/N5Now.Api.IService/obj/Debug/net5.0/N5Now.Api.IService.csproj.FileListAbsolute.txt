@@ -1,0 +1,15 @@
+C:\Users\administrador\Desktop\N5NowApi\N5NowApi\N5Now.Api.IService\bin\Debug\net5.0\N5Now.Api.IService.deps.json
+C:\Users\administrador\Desktop\N5NowApi\N5NowApi\N5Now.Api.IService\bin\Debug\net5.0\N5Now.Api.IService.dll
+C:\Users\administrador\Desktop\N5NowApi\N5NowApi\N5Now.Api.IService\bin\Debug\net5.0\ref\N5Now.Api.IService.dll
+C:\Users\administrador\Desktop\N5NowApi\N5NowApi\N5Now.Api.IService\bin\Debug\net5.0\N5Now.Api.IService.pdb
+C:\Users\administrador\Desktop\N5NowApi\N5NowApi\N5Now.Api.IService\bin\Debug\net5.0\N5Now.Api.ViewModel.dll
+C:\Users\administrador\Desktop\N5NowApi\N5NowApi\N5Now.Api.IService\bin\Debug\net5.0\N5Now.Api.ViewModel.pdb
+C:\Users\administrador\Desktop\N5NowApi\N5NowApi\N5Now.Api.IService\obj\Debug\net5.0\N5Now.Api.IService.csproj.AssemblyReference.cache
+C:\Users\administrador\Desktop\N5NowApi\N5NowApi\N5Now.Api.IService\obj\Debug\net5.0\N5Now.Api.IService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\administrador\Desktop\N5NowApi\N5NowApi\N5Now.Api.IService\obj\Debug\net5.0\N5Now.Api.IService.AssemblyInfoInputs.cache
+C:\Users\administrador\Desktop\N5NowApi\N5NowApi\N5Now.Api.IService\obj\Debug\net5.0\N5Now.Api.IService.AssemblyInfo.cs
+C:\Users\administrador\Desktop\N5NowApi\N5NowApi\N5Now.Api.IService\obj\Debug\net5.0\N5Now.Api.IService.csproj.CoreCompileInputs.cache
+C:\Users\administrador\Desktop\N5NowApi\N5NowApi\N5Now.Api.IService\obj\Debug\net5.0\N5Now.Api.IService.csproj.CopyComplete
+C:\Users\administrador\Desktop\N5NowApi\N5NowApi\N5Now.Api.IService\obj\Debug\net5.0\N5Now.Api.IService.dll
+C:\Users\administrador\Desktop\N5NowApi\N5NowApi\N5Now.Api.IService\obj\Debug\net5.0\ref\N5Now.Api.IService.dll
+C:\Users\administrador\Desktop\N5NowApi\N5NowApi\N5Now.Api.IService\obj\Debug\net5.0\N5Now.Api.IService.pdb

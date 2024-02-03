@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\N5Now.Api.IRepository\N5Now.Api.IRepository.csproj" />
+    <ProjectReference Include="..\N5Now.Api.ViewModel\N5Now.Api.ViewModel.csproj" />
+  </ItemGroup>
+
+</Project>

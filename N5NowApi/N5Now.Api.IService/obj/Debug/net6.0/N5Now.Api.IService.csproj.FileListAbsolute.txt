@@ -1,0 +1,15 @@
+D:\Miguel Angel\Personal\N5NowApi\N5Now.Api.IService\bin\Debug\net6.0\N5Now.Api.IService.deps.json
+D:\Miguel Angel\Personal\N5NowApi\N5Now.Api.IService\bin\Debug\net6.0\N5Now.Api.IService.dll
+D:\Miguel Angel\Personal\N5NowApi\N5Now.Api.IService\bin\Debug\net6.0\N5Now.Api.IService.pdb
+D:\Miguel Angel\Personal\N5NowApi\N5Now.Api.IService\bin\Debug\net6.0\N5Now.Api.ViewModel.dll
+D:\Miguel Angel\Personal\N5NowApi\N5Now.Api.IService\bin\Debug\net6.0\N5Now.Api.ViewModel.pdb
+D:\Miguel Angel\Personal\N5NowApi\N5Now.Api.IService\obj\Debug\net6.0\N5Now.Api.IService.csproj.AssemblyReference.cache
+D:\Miguel Angel\Personal\N5NowApi\N5Now.Api.IService\obj\Debug\net6.0\N5Now.Api.IService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Miguel Angel\Personal\N5NowApi\N5Now.Api.IService\obj\Debug\net6.0\N5Now.Api.IService.AssemblyInfoInputs.cache
+D:\Miguel Angel\Personal\N5NowApi\N5Now.Api.IService\obj\Debug\net6.0\N5Now.Api.IService.AssemblyInfo.cs
+D:\Miguel Angel\Personal\N5NowApi\N5Now.Api.IService\obj\Debug\net6.0\N5Now.Api.IService.csproj.CoreCompileInputs.cache
+D:\Miguel Angel\Personal\N5NowApi\N5Now.Api.IService\obj\Debug\net6.0\N5Now.Api.IService.csproj.CopyComplete
+D:\Miguel Angel\Personal\N5NowApi\N5Now.Api.IService\obj\Debug\net6.0\N5Now.Api.IService.dll
+D:\Miguel Angel\Personal\N5NowApi\N5Now.Api.IService\obj\Debug\net6.0\refint\N5Now.Api.IService.dll
+D:\Miguel Angel\Personal\N5NowApi\N5Now.Api.IService\obj\Debug\net6.0\N5Now.Api.IService.pdb
+D:\Miguel Angel\Personal\N5NowApi\N5Now.Api.IService\obj\Debug\net6.0\ref\N5Now.Api.IService.dll

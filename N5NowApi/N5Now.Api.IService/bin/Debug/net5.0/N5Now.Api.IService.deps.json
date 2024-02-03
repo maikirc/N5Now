@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "N5Now.Api.IService/1.0.0": {
+        "dependencies": {
+          "N5Now.Api.ViewModel": "1.0.0"
+        },
+        "runtime": {
+          "N5Now.Api.IService.dll": {}
+        }
+      },
+      "N5Now.Api.ViewModel/1.0.0": {
+        "runtime": {
+          "N5Now.Api.ViewModel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "N5Now.Api.IService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "N5Now.Api.ViewModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
